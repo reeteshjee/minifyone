@@ -1,0 +1,22 @@
+{
+    "name": "reeteshjee/minifyone",
+    "description": "A PHP library to combine and minify CSS/JS files into a single file for fewer HTTP requests.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MinifyOne\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "keywords": ["php", "css", "js", "minify", "combine", "assets", "performance"],
+    "authors": [
+        {
+            "name": "Ritesh Ghimire",
+            "email": "reeteshghimire@gmail.com"
+        }
+    ]
+}
