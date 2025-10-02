@@ -20,7 +20,7 @@ It helps reduce the number of HTTP requests, improving page load speed and perfo
 Install via Composer:
 
 ```bash
-composer require yourname/minifyone
+composer require reeteshjee/minifyone
 ```
 
 Or manually include the `src/MinifyOne.php` file in your project.
