@@ -140,5 +140,3 @@ new MinifyOne($outputDir = __DIR__ . '/../cache', $minify = true);
 
 ---
 
-## 📄 License
-MIT License © 2025 Your Name
